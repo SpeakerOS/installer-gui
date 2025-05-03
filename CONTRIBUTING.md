@@ -9,5 +9,5 @@ something to Calamares. This contribution guide should help you
 get started. The guide is not exhaustive: most of it points
 to other documents that you will need.
 
-To contribute to Calamares, find it on a Free-Software friendly
-forge and participate over there.
+To contribute to Calamares, find it on the Free-Software friendly
+[codeberg forge](https://codeberg.org/Calamares) and participate over there.

@@ -12,3 +12,13 @@
 
 Please don't use this repository any more.
 Development has migrated to a different forge.
+
+## Website:
+Current website still points to Github, so please use https://calamares.codeberg.page/
+for all updated links.
+
+## Bug reports:
+https://codeberg.org/Calamares/calamares/issues/new
+
+## Contributing:
+https://codeberg.org/Calamares/calamares/src/branch/calamares/CONTRIBUTING.md
